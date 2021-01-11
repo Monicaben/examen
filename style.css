@@ -2,3 +2,7 @@ h1 {background-color: orange;text-align: center;}
 h2 {background-color: rgb(178, 248, 245);text-align: center;}
 p.esteve1 {text-align: left;}
 p.macintosh {text-align: left;}
+.empleados {background-color: orange;}
+.LMGSI {background-color: pink;}
+table.horario {border: blue 1px solid;}
+tr.horario {border:blue 2px solid ;}
